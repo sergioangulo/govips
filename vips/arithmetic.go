@@ -1,5 +1,5 @@
 package vips
-
+// #include <vips/vips.h>
 // #include "arithmetic.h"
 import "C"
 import "unsafe"
